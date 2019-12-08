@@ -1,5 +1,5 @@
 # Delve-Clicker
-Delve Clicker. V0.1. Open README for more information. Play now: https://onlinegdb.com/BygBbIcTH
+Delve Clicker. V0.1. Open README for more information. Play now: https://repl.it/@coolzet/Delve-Clicker
 
 Here's delve clicker. 
 
