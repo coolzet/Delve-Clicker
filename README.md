@@ -1,32 +1,20 @@
 # Delve-Clicker
 Delve Clicker. V0.1. Open README for more information. Play now: https://repl.it/@coolzet/Delve-Clicker
 
-Here's delve clicker. 
+Here's delve clicker.For now this is a cmd game. It's the first version of the game that I`ve published. Later, when all options will be finished I am going to port this to GUI interface. But athe moment this is the first 0.1 version. You may play it on your cmd if you launch it. In case you find any bug, fix it, or just inform me about it. I will be grateful to you.
 
-This is cmd game for now. 
-It's first version of game that i publishing. 
-Later, when all options will be finished i'll port this to GUI interface. 
-But now this is first 0.1 version. You may play it on your cmd if you launch it. 
-If you will find any bug, fix it, or just tell about it to me. I will be grateful to you. 
-
-Big Thank You!
+Big thank you!
 
 in V0.1 you can:
 
 SHOP->Instruments
 
-Buy itstruments in shop such as Rock, Pickaxe and Power pickaxe 
-with those instruments you can increase your power.
-Increasing power will increase loot from mining.
+Buy itstruments such as Rock, Pickaxe and Power pickaxe in the shop. Due to these instruments you can increase your mining power. Increasing the power allows to raise the amount of loot from mining.
 
 SHOP-> Delve Instruments
 
-Buy delve instruments such as Shovel 
-With shovel you can get to new delves and get more loot from mining.
+Buy delve instruments such as Shovel. With the help of the shovel you can get to new delves and obtain more loot from mining.
 
-You can mine in Go to Mine->Start Mining.
-For now you mining too fast because this is test version. Lated it's will be x20 from corrent speed.
-Take a new delve in Go to Mine->Go to next delve
-For every delve for now you need 5 shovel and 10 gold. Later, this price will be changed every delve.
+You can mine in Go to Mine->Start Mining. Currently mining is too fast by the reason of the game is in test .Later it will be x20 from current speed. Take a new delve in Go to Mine->Go to next delve. For every delve you need 5 shovel and 10 gold at the moment. During the further development of the game the prices of every delve will be changed.
 
 You can earn gold with selling your stones and coal in "Go to trader"
